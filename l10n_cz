@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+
+<l10n>
+	<translationContributors>DmodingSK</translationContributors>
+	<languageVersion>1.0.0.0</languageVersion>
+	<texts>
+	  <text name="shopItem_cotsworldsStores" text="Obchody Cotswolds" />
+      <text name="shopItem_farmStoreBay1" text="Farmářský sklad 1" />
+      <text name="shopItem_farmStoreBay2" text="Farmářský sklad 2" />
+      <text name="shopItem_allSpheresStores" text="Obchod Allspheres" />
+      <text name="shopItem_generalStore" text="Místní Obchod" />
+      <text name="storeItem_cowShed" text="Kravín" />
+      <text name="storeItem_rubbish01" text="Odstranění Farmářského Odpadu" />
+      <text name="storeItem_rubbish02" text="Odstranění Farmářského Odpadu" />
+      <text name="storeItem_farmSilo01" text="Malé Farmářské Silo" />
+      <text name="storeItem_liquid" text="Nádrže Na Kapalná Hnojiva" />
+      <text name="storeItem_fieldFence" text="Polní Plot" />
+      <text name="storeItem_fieldHedge" text="Polní Živý Plot" />
+      <text name="storeItem_machineShed01" text="Kůlna Pro Stroje 01" />
+      <text name="storeItem_machineShed02" text="Kůlna Pro Stroje 02" />
+      <text name="storeItem_oldShed01" text="Stará Kůlna 01" />
+      <text name="storeItem_oldShed02" text="Stará Kůlna 02" />
+      <text name="storeItem_oldShed03" text="Stará Kůlna 03" />
+      <text name="storeItem_stoneShed01" text="Kamenná Kůlna 01" />
+      <text name="storeItem_stoneShed02" text="Kamenná Kůlna 02" />
+      <text name="storeItem_cotswoldsStoresFarmersMarket" text="Farmářský Trh Obchodu Cotwolds" />
+      <text name="storeItem_gardenCentre" text="Zahradní Centrum " />
+      <text name="storeItem_farmersMarket" text="Farmářský trh" />
+      <text name="storeItem_generalStoreBay1" text="Sklad Místního Obchodu" />
+	  <text name="storeItem_horse" text="Odstranění Položek Koně" />
+      <text name="storeItem_serviceShed" text="Servisní Kůlna" />
+      <text name="storeItem_grainShed" text="Obilní Kůlna" />
+      <text name="storeItem_farmSilo02" text="Velké Farmářské Silo" />
+      <text name="storeItem_FarmStoreBales" text="Balíky Pro Farmářský Obchod" />
+      <text name="storeItem_cotswoldsBales" text="Balíky Pro Obchod Cotswolds" />
+      <text name="storeItem_allspheresBales" text="Balíky Pro Obchod Allspheres" />
+      <text name="storeItem_gardenBales" text="Balíky Pro Zahradní Centrum" />
+      <text name="storeItem_generalStoreFood" text="Místní Restaurace" />
+      
+      <text name="storeItem_collectible" text="Posbírej všech 25 sběratelských předmětů" />
+      <text name="storeItem_collectibleIntro" text="Na Calmsdenu je 25 starých starožitností, zkuste je najít všechny." />
+      
+      <text name="$l10n_action_lightOn" text="Zapnout světlo" />
+      <text name="$l10n_action_lightOut" text="Vypnout světlo" />
+      
+      
+      <text name="fillType_linseed" text="Lněná semínka" />
+      
+    
+	</texts>
+</l10n>
